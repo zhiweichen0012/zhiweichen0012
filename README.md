@@ -14,6 +14,7 @@
     <img src="https://badges.pufler.dev/visits/zhiweichen0012/zhiweichen0012?style=flat-square&color=black&logo=github"> &nbsp; 
     <img src="https://badges.pufler.dev/repos/zhiweichen0012?style=flat-square&color=black&logo=github">
 </p>
+
 <p align="center">
 <a href="https://github.com/zhiweichen0012"><img src="https://img.shields.io/github/followers/zhiweichen0012?style=social"></a>
 </p>
@@ -36,6 +37,34 @@
 <p align="center">  
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhiweichen0012&show_icons=true&theme=radical">
 </p>
+
+
+<div>
+    <img src="Img/parrots/1.gif" width="30" height="30"/>
+    <img src="Img/flags/2.gif" width="30" height="30"/>
+    <img src="Img/parrots/3.gif" width="36" height="30"/>
+    <img src="Img/parrots/4.gif" width="30" height="30"/>
+    <img src="Img/parrots/5.gif" width="30" height="30"/>
+    <img src="Img/parrots/6.gif" width="30" height="30"/>
+    <img src="Img/parrots/7.gif" width="30" height="30"/>
+    <img src="Img/parrots/8.gif" width="30" height="30"/>
+    <img src="Img/parrots/9.gif" width="30" height="30"/>
+    <img src="Img/parrots/10.gif" width="30" height="30"/>
+    <img src="Img/parrots/11.gif" width="36" height="30"/>
+    <img src="Img/parrots/12.gif" width="30" height="30"/>
+    <img src="Img/parrots/13.gif" width="30" height="30"/>
+    <img src="Img/parrots/14.gif" width="30" height="30"/>
+    <img src="Img/parrots/15.gif" width="30" height="30"/>
+    <img src="Img/parrots/16.gif" width="30" height="30"/>
+    <img src="Img/parrots/17.gif" width="30" height="30"/>
+    <img src="Img/parrots/18.gif" width="30" height="30"/>
+    <img src="Img/parrots/19.gif" width="30" height="30"/>
+    <img src="Img/parrots/20.gif" width="30" height="30"/>
+    <img src="Img/parrots/21.gif" width="30" height="30"/>
+    <img src="Img/parrots/22.gif" width="30" height="30"/>
+    <img src="Img/parrots/23.gif" width="30" height="30"/>
+    <img src="Img/parrots/24.gif" width="30" height="30"/>
+</div>
 
 <!--
 **zhiweichen0012/zhiweichen0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
