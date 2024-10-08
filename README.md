@@ -41,7 +41,7 @@
 
 <div>
     <img src="Img/parrots/1.gif" width="30" height="30"/>
-    <img src="Img/flags/2.gif" width="30" height="30"/>
+    <img src="Img/parrots/2.gif" width="30" height="30"/>
     <img src="Img/parrots/3.gif" width="36" height="30"/>
     <img src="Img/parrots/4.gif" width="30" height="30"/>
     <img src="Img/parrots/5.gif" width="30" height="30"/>
