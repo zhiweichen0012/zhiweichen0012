@@ -1,6 +1,6 @@
 <h2> <img src="Img/pkq.gif" width="35px"> &nbsp;  Hey ! &nbsp; Nice to see you ~  </h2>
 
-<img align='right' src='Img/rocket.gif' width='150'>
+<img align='right' src='Img/rocket.gif' width='120'>
 
 <p>
   I am currently an Assistant Professor at Jiangxi Normal University (JXNU), China.
