@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align=center>  
+<p align="center">  
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhiweichen0012&show_icons=true&theme=radical">
 </p>
 
