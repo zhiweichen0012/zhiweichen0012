@@ -10,13 +10,9 @@
 - 🤔 &nbsp; During my Ph.D. studies, I focused on weakly supervised object detection and localization.
 - 👨‍💻 &nbsp; Currently, I am also exploring open-vocabulary learning and multimodal approaches.
 
-<p align=center>
-  <a href="https://github.com/zhiweichen0012">
-    <img src="https://badges.pufler.dev/visits/zhiweichen0012/zhiweichen0012?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/zhiweichen0012?tab=repositories">
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/zhiweichen0012/zhiweichen0012?style=flat-square&color=black&logo=github"> &nbsp; 
     <img src="https://badges.pufler.dev/repos/zhiweichen0012?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 <p align="center">
 <a href="https://github.com/zhiweichen0012"><img src="https://img.shields.io/github/followers/zhiweichen0012?style=social"></a>
