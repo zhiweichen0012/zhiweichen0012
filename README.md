@@ -1,11 +1,45 @@
-### Hi there, I'm Zhiwei Chen. 👋
+<h2> <img src="Img/pkq.gif" width="35px"> &nbsp;  Hey ! &nbsp; Nice to see you ~  </h2>
 
-- 🌱 I’m a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
-- ❤️ I’m currently working on Computer Vision, research interests being focused on weakly supervised learning...
+<img align='right' src='Img/rocket.gif' width='150'>
 
-![zhiweichen0012's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhiweichen0012&show_icons=true&theme=cobalt)
+<p>
+  I am currently an Assistant Professor at Jiangxi Normal University (JXNU), China.
+</p>
 
+- 🌱 &nbsp; My research interests lie in computer vision and deep learning.
+- 🤔 &nbsp; During my Ph.D. studies, I focused on weakly supervised object detection and localization.
+- 👨‍💻 &nbsp; Currently, I am also exploring open-vocabulary learning and multimodal approaches.
 
+<p align=center>
+  <a href="https://github.com/zhiweichen0012">
+    <img src="https://badges.pufler.dev/visits/zhiweichen0012/zhiweichen0012?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/zhiweichen0012?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/zhiweichen0012?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/zhiweichen0012"><img src="https://img.shields.io/github/followers/zhiweichen0012?style=social"></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Weakly Supervised Learning-yellow"> <img src="https://img.shields.io/badge/Object Detection/Localizaiton-blue"> 
+</p>
+<hr>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pytorch%20-%23FF6F00.svg?&style=for-the-badge&logo=Pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&ogoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align=center>  
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=zhiweichen0012&show_icons=true&theme=radical">
+</p>
 
 <!--
 **zhiweichen0012/zhiweichen0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
