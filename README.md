@@ -3,7 +3,7 @@
 <img align='right' src='Img/rocket.gif' width='100'>
 
 <p>
-  I am currently an Assistant Professor at Jiangxi Normal University (JXNU), China.
+  I am currently a Research Fellow at Nanchang University (NCU), China.
 </p>
 
 - 🌱 &nbsp; My research interests lie in computer vision and deep learning.
